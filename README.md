@@ -8,4 +8,3 @@ Program yalnızca bu depoda yayımlanan sürümleri indirir. Telegram tokenı ve
 
 Bu depo yalnızca sürüm dosyalarının dağıtımı içindir. Kaynak kod ve kişisel ayarlar bu depoya yüklenmez.
 
-UMUT KOCAKAYA
